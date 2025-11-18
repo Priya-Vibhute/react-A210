@@ -15,7 +15,7 @@ function B() {
         return (
           <>
             <p>
-              {p.id} {p.title}
+              {p.id} {p.title} Hello
             </p>
             <img src={p.image} alt="" />
             <hr />
